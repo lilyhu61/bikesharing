@@ -32,7 +32,12 @@ The purpose of this analysis was to convince investors that a bike-sharing progr
 
 ## Summay
 In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
+
 We suggest additional visualizations for future analysis as follows:
-1. The below image can give us a idea of how often each bike is used, and then note which ones are used most frequently.
+1. Investors would like to know which bikes are most likely due for repair? The below treemap can give us a idea of how often each bike is used, and then note which ones are used most frequently.
   ![Screen Shot 2022-04-03 at 5 10 42 PM](https://user-images.githubusercontent.com/95242493/161452852-c8c3a9cb-509e-4cbe-b087-34575165e93a.png)
+  
+ 2. The image ![Screen Shot 2022-04-03 at 5 24 46 PM](https://user-images.githubusercontent.com/95242493/161453420-19dbb316-3857-4e5f-8f39-bd07e75ec860.png)
+below shows bike utilization levels, if a bike has a higher utilization lavel, it will be a large bubble.
+ 
 
