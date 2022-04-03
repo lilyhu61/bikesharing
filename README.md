@@ -29,6 +29,10 @@ The purpose of this analysis was to convince investors that a bike-sharing progr
  
  7. User Trips by Gender by Weekday: We visualize the number of bike trips by gender for each hour for each day of the week as following. This graph shows that male have more experience of trips on Thursdays and Fridays.
 ![Screen Shot 2022-04-03 at 4 56 28 PM](https://user-images.githubusercontent.com/95242493/161452375-08e6fd8e-b614-491d-b89f-6111d717975d.png)
+ 8. Top ride starting locations and top ride ending locations:
+![Screen Shot 2022-04-03 at 5 42 10 PM](https://user-images.githubusercontent.com/95242493/161454028-98db002c-3047-4960-9ead-ff55b0a1026c.png)
+![Screen Shot 2022-04-03 at 5 42 24 PM](https://user-images.githubusercontent.com/95242493/161454039-6a825016-7207-4506-b62b-2f3ad520e5e1.png)
+
 
 ## Summay
 In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
