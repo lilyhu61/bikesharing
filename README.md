@@ -20,9 +20,19 @@ The purpose of this analysis was to convince investors that a bike-sharing progr
  4. Checkout Times by Gender: Most trip durations are for male with a large difference from female as you see below:
  ![Screen Shot 2022-04-03 at 4 49 42 PM](https://user-images.githubusercontent.com/95242493/161452114-480f9c46-935c-4b57-9f72-365945b714c1.png)
  
- 5. Trips by weekday for Each Hour: We graph the number of bike trips by weekday for each hour of the day as follow, It seems that this amount is more colorful between 6:00 Am and 8:00 Pm. 
+ 5. Trips by weekday for Each Hour: We graph the number of bike trips by weekday for each hour of the day as following. It seems that this amount is more colorful between 6:00 Am and 8:00 Pm. 
  ![Screen Shot 2022-04-03 at 4 50 57 PM](https://user-images.githubusercontent.com/95242493/161452156-adc5e12f-c9de-414e-b61d-09b647f58f0b.png)
 
 
- 6. Trips by Gender (Weekday per Hour): We graph the number of bike trips by gender for each hour of each day of the week as follows:
-  ![Screen Shot 2022-04-03 at 4 52 41 PM](https://user-images.githubusercontent.com/95242493/161452249-5b0d41b9-a2a7-4056-b27c-7c4ef784db0f.png)  
+ 6. Trips by Gender (Weekday per Hour): We graph the number of bike trips by gender for each hour of each day of the week as following. As shown in the shaded section, this amount is more meaningful for male between 6:00 Am to 8:00 Pm.  
+ ![Screen Shot 2022-04-03 at 4 52 41 PM](https://user-images.githubusercontent.com/95242493/161452249-5b0d41b9-a2a7-4056-b27c-7c4ef784db0f.png)  
+ 
+ 7. User Trips by Gender by Weekday: We visualize the number of bike trips by gender for each hour for each day of the week as following. This graph shows that male have more experience of trips on Thursdays and Fridays.
+![Screen Shot 2022-04-03 at 4 56 28 PM](https://user-images.githubusercontent.com/95242493/161452375-08e6fd8e-b614-491d-b89f-6111d717975d.png)
+
+## Summay
+In conclusion, bikeshare services are remarkably popular in busy metropolitan areas, where occupied real estate is densely packed and parking spaces may be scarce. The user base is made up mostly of male subscribers, providing regular income to the program. More outreach should be done to attract female riders, but male users seem a reliable market. And main usage seems focused around morning and evening commute times.
+We suggest additional visualizations for future analysis as follows:
+1. The below image can give us a idea of how often each bike is used, and then note which ones are used most frequently.
+  ![Screen Shot 2022-04-03 at 5 10 42 PM](https://user-images.githubusercontent.com/95242493/161452852-c8c3a9cb-509e-4cbe-b087-34575165e93a.png)
+
