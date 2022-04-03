@@ -37,7 +37,8 @@ We suggest additional visualizations for future analysis as follows:
 1. Investors would like to know which bikes are most likely due for repair? The below treemap can give us a idea of how often each bike is used, and then note which ones are used most frequently.
   ![Screen Shot 2022-04-03 at 5 10 42 PM](https://user-images.githubusercontent.com/95242493/161452852-c8c3a9cb-509e-4cbe-b087-34575165e93a.png)
   
- 2. The image ![Screen Shot 2022-04-03 at 5 24 46 PM](https://user-images.githubusercontent.com/95242493/161453420-19dbb316-3857-4e5f-8f39-bd07e75ec860.png)
-below shows bike utilization levels, if a bike has a higher utilization lavel, it will be a large bubble.
+ 2. The image below shows bike utilization levels, if a bike has a higher utilization level, it will be a large bubble.
+  ![Screen Shot 2022-04-03 at 5 24 46 PM](https://user-images.githubusercontent.com/95242493/161453420-19dbb316-3857-4e5f-8f39-bd07e75ec860.png)
+
  
 
